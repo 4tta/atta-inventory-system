@@ -127,12 +127,12 @@
         <div class="input-group mb-3">
             <select class="form-select" bind:value={category}>
               <option selected>Choose...</option>
-              <option value="PC Case">PC</option>
+              <option value="PC">PC</option>
               <option value="Monitor">Monitor</option>
               <option value="Keyboard">Keyboard</option>
               <option value="Mouse">Mouse</option>
               <option value="CPU">CPU</option>
-              <option value="Mouse">Mouse</option>
+              <option value="Graphic Card">Graphic Card</option>
               <option value="Speaker">Speaker</option>
             </select>
           </div>
